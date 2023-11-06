@@ -51,3 +51,7 @@ height: 80px;
 .broadway-font {
     font-family: 'Broadway', sans-serif;
   }
+
+.errclr {
+    color: red;
+}

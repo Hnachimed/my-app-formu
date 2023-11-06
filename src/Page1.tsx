@@ -82,7 +82,7 @@ export const Page1=()=>{
                 },
               }}
             />
-            {errors.nom && <p>{errors.nom.message}</p>}
+            {errors.nom && <p style={{ color: 'red' }}>{errors.nom.message}</p>}
           
           </div>
     
@@ -107,7 +107,7 @@ export const Page1=()=>{
                 },
               }}
             />
-            {errors.prenom && <p>{errors.prenom.message}</p>}
+            {errors.prenom && <p style={{ color: 'red' }}>{errors.prenom.message}</p>}
           </div>
            
           <div className="espace">
@@ -129,7 +129,7 @@ export const Page1=()=>{
                 },
               }}
             />
-            {errors.email && <p>{errors.email.message}</p>}
+            {errors.email && <p style={{ color: 'red' }}>{errors.email.message}</p>}
           </div><br />
 
           <div className="espace">
@@ -152,7 +152,7 @@ export const Page1=()=>{
                 },
               }}
             />
-            {errors.numero && <p>{errors.numero.message}</p>}
+            {errors.numero && <p style={{ color: 'red' }}>{errors.numero.message}</p>}
           </div>
 
           <div className="espace">
@@ -175,7 +175,7 @@ export const Page1=()=>{
                 },
               }}
             />
-            {errors.adresse && <p>{errors.adresse.message}</p>}
+            {errors.adresse && <p style={{ color: 'red' }}>{errors.adresse.message}</p>}
           </div>
 
           <div className="espace">
@@ -198,7 +198,7 @@ export const Page1=()=>{
                 },
               }}
             />
-            {errors.lieuNaissance && <p>{errors.lieuNaissance.message}</p>}
+            {errors.lieuNaissance && <p style={{ color: 'red' }}>{errors.lieuNaissance.message}</p>}
           </div><br />
 
           <div className="espace">
@@ -218,7 +218,7 @@ export const Page1=()=>{
                 validate: validateAge,
               }}
             />
-            {errors.age && <p>{errors.age.message}</p>}
+            {errors.age && <p style={{ color: 'red' }}>{errors.age.message}</p>}
           </div>
 
           <center><div className="espace">
@@ -238,7 +238,7 @@ export const Page1=()=>{
                 validate: validateDateNaissance,
               }}
             />
-            {errors.dateNaissance && <p>{errors.dateNaissance.message}</p>}
+            {errors.dateNaissance && <p style={{ color: 'red' }}>{errors.dateNaissance.message}</p>}
           </div></center>
 
           <h2 style={{ backgroundColor: '#ADD8E6', border: '2px solid #404040' }}>Parcours Pédagogique:</h2>
