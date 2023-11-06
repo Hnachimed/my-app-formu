@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app-formu/static/css/main.9daa814c.css",
+    "main.js": "/my-app-formu/static/js/main.0c76da57.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app-formu/static/js/787.28cb0dcd.chunk.js",
+    "static/media/wp10766809-simple-colors-wallpapers.jpg": "/my-app-formu/static/media/wp10766809-simple-colors-wallpapers.9b5991e0a6cbc99f7f28.jpg",
+    "index.html": "/my-app-formu/index.html",
+    "main.9daa814c.css.map": "/my-app-formu/static/css/main.9daa814c.css.map",
+    "main.0c76da57.js.map": "/my-app-formu/static/js/main.0c76da57.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app-formu/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9daa814c.css",
+    "static/js/main.0c76da57.js"
+  ]
+}
