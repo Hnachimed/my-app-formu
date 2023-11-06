@@ -1,0 +1,31 @@
+
+
+
+        li {
+           text-align: center;
+        }
+        img {
+           margin-top: 1%;
+           border-radius: 20%;
+           border: 5px black solid;
+           margin-left: 85%;
+           
+        }
+        ul{
+            display: inline-block;
+            margin: auto;
+            padding-left: 30%;
+        }
+        h3 {
+            background-color: #a0a0a0;
+            border: 2px solid #404040;
+            display: inline-block;
+            padding: 2px 600px;
+           
+        }
+        alignee {
+            margin-top: 100%;
+
+        }
+       
+     

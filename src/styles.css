@@ -1,0 +1,57 @@
+.x{
+    width: 1300px;
+    height:200px;
+    border-radius: 50px 10px; rgb(21, 255, 0) solid;
+    background-color: #a0a0a0;
+    padding-bottom: 80px;
+    
+    
+    }
+        
+
+        .mon-formulaire {
+            background-color:  #ffffff;
+            /* Autres styles pour le formulaire */
+            padding: 20px;
+            border-radius: 10px;
+        }
+    
+        div {
+            display: inline-block;
+            margin-right: 50px; /* Marge entre les champs de saisie */
+        }
+    
+        .espace {
+            display: inline-block;
+            margin-right: 60px; /* Marge entre les champs de saisie */
+        }
+        li {
+           text-align: center;
+        }
+        img {
+           border-radius: 20%;
+           border: 5px black solid;
+           
+        }
+        ul{
+            display: inline-block;
+            margin: auto;
+            padding-left: 30%;
+        }
+        h3 {
+            background-color: #a0a0a0;
+            border: 2px solid #404040;
+            display: inline-block;
+            padding: 2px 400px;
+            margin-left: 20px; /* Ajoutez une marge à droite */
+        }
+        .personal-info {
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        
+        .personal-info img {
+            border-radius: 10%;
+            margin-right: 30%;
+        }

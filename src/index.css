@@ -1,0 +1,53 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 210vh; /* 100% de la hauteur de la vue */
+    margin: 0;
+    background-image: url('wp10766809-simple-colors-wallpapers.jpg');
+    background-size: cover;
+}
+.form { 
+background:#FFFFFF; /* Couleur de fond du formulaire */
+padding: 20px;
+border-radius: 30px;
+width: 800px; /* Largeur fixe du formulaire */
+
+
+}
+
+.ma-case {
+width: 300px; /* Spécifiez la largeur souhaitée ici, par exemple 300 pixels */
+height: 200px; /* Spécifiez la hauteur souhaitée ici, par exemple 200 pixels */
+background-color: #f0f0f0; /* Ajoutez une couleur de fond pour mieux visualiser la case */
+}
+
+.mon-champ {
+width: 600px; /* Spécifiez la largeur souhaitée ici, par exemple 300 pixels */
+height: 60px;
+}   
+.my-champ {
+width: 600px; /* Spécifiez la largeur souhaitée ici, par exemple 300 pixels */
+height: 30px;
+}   
+.the-champ {
+width: 600px; /* Spécifiez la largeur souhaitée ici, par exemple 300 pixels */
+height: 80px;
+}   
+.espace {
+    display: inline-block;
+    margin-right: 60px; /* Marge entre les champs de saisie */
+}
+.mon-formulaire {
+    background-color:  #ffffff;
+    /* Autres styles pour le formulaire */
+    padding: 20px;
+    border-radius: 10px;
+}
+.div {
+    display: inline-block;
+    margin-right: 50px; /* Marge entre les champs de saisie */
+}
+.broadway-font {
+    font-family: 'Broadway', sans-serif;
+  }
